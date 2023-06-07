@@ -1,4 +1,4 @@
-# MusicPlayerWinform
+# Ứng dụng nghe nhạc sử dụng C# 
 
 
 ![Screenshot 2023-06-07 135700](https://github.com/Lamminhtuan/MusicPlayerWinform/assets/79350128/21661e6c-4dec-444a-80c3-bbc491f75057)
